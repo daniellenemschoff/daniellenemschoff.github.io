@@ -12,4 +12,4 @@ Prior to graduate school, I was a research assistant at the Federal Reserve Boar
 
 
 ## Contact
-You can contact me at dinemschoff@uchicago.edu(mailto:dinemschoff@uchicago.edu)
+You can contact me at dinemschoff@uchicago.edu.
