@@ -43,6 +43,8 @@
             {% for link in site.nav_links %}
               <li><a href="{{ link.link }}">{{ link.name }}</a></li>
             {% endfor %}
+            <!-- Add link to PDF document -->
+            <li><a href="{{ '/din_cv.pdf' | relative_url }}">CV</a></li>
           </ul>
         </nav>
       </header>
