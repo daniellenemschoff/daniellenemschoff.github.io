@@ -1,9 +1,11 @@
 title: Danielle Nemschoff
 description: >
-  ![Profile Image](/DSC04265.jpg)
+  <img src="/DSC04265.jpg" alt="Profile Image" style="width:150px; height:auto;"> 
 theme: jekyll-theme-minimal
 
 # Your details
 author:
   name: Danielle Nemschoff
   email: dinemschoff@uchicago.edu
+
+markdown: kramdown
