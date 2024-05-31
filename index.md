@@ -12,4 +12,4 @@ My research focuses on crime and the criminal justice system.
 
 
 ## Contact
-You can contact me at dinemschoff@uchicago.edu [dinemschoff [at] uchicago [dot] edu]
+You can contact me at dinemschoff@uchicago.edu (dinemschoff [at] uchicago [dot] edu).
