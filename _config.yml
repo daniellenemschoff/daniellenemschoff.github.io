@@ -9,3 +9,11 @@ author:
   email: dinemschoff@uchicago.edu
 
 markdown: kramdown
+
+nav_links:
+- name: Home
+  link: /
+- name: Teaching
+  link: /teaching
+- name: CV
+  link: /cv
