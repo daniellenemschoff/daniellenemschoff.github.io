@@ -11,5 +11,7 @@ title: Teaching
 -  **Microeconomics** (Master's level)
 
 ## Additional TA Experience
--  **Expanding Diversity in Economics**: Causual Inference (Undergraduate level); Becker Friedman Institute summer course
--  **Inequality: Theory, Evidence and Methods** (PhD level); UChicago Econ Dept
+-  **Causual Inference** (Undergraduate level)
+     Expanding Diversity in Economics; Becker Friedman Institute
+-  **Inequality: Theory, Evidence and Methods** (PhD level)
+     UChicago Econ Dept
