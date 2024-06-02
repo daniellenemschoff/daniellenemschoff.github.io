@@ -8,10 +8,10 @@ title: Teaching
 -  **Police Reform and Police Legitimacy** (Master's level)
 -  **Advanced Statistics** (Master's level)
 -  **Cost-Benefit Analysis** (Master's level)
--  **Microeconomics** (Master's level)
+-  **Introductory Microeconomics** (Master's level)
 
 ## Additional TA Experience
--  **Causual Inference** (Undergraduate level)
-     Expanding Diversity in Economics; Becker Friedman Institute
+-  **Causal Inference** (Undergraduate level)
+     [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/); Becker Friedman Institute
 -  **Inequality: Theory, Evidence and Methods** (PhD level)
      UChicago Econ Dept
