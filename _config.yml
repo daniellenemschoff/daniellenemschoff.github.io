@@ -17,3 +17,5 @@ nav_links:
   link: /research
 - name: Teaching
   link: /teaching
+
+{% raw %}{% seo %}{% endraw %}
