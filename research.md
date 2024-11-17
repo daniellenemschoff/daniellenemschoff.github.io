@@ -1,6 +1,6 @@
 ## Current Projects ##
 - "Prison Diversion for Parents" 
-- "Family Bonds and Recidivism"  
+- "Social Bonds, Prison Visitation, and Recidivism"  
 - ["An evaluation of Crisis-Intervention Team (CIT) training"](https://mpra.ub.uni-muenchen.de/114948/1/MPRA_paper_114948.pdf) (working paper, RePEC 2022)
 
 ## Publications ##
