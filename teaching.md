@@ -8,9 +8,9 @@ title: Teaching
 -  **Police Reform and Police Legitimacy** (Master's level) (Prof Robert Owens)
 -  **Advanced Statistics** (Master's level) (Prof Dan Black)
 -  **Cost-Benefit Analysis** (Master's level) (Prof Kathryn Ierulli)
--  **Introductory Microeconomics** (Master's level) (Profs Tom Coleman, Zarek Brot-Goldberg, Navin Kumar)
+-  **Introductory Microeconomics** (Master's level) (Profs Tom Coleman, Zarek Brot, Navin Kumar)
 
 -  **Causal Inference** (Undergraduate level)
      [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/); Becker Friedman Institute
--  **Inequality: Theory, Evidence and Methods** (PhD level)
+-  **Inequality: Theory, Evidence and Methods** (PhD level) (Profs Steven Durlauf, Dan Black)
      UChicago Econ Dept
