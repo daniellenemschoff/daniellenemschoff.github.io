@@ -1,6 +1,6 @@
 ## Current Projects ##
+- "Does Staying Connected Matter? The Impact of Prison Visitation on Recidivism"  
 - "Prison Diversion for Parents" 
-- "Social Bonds, Prison Visitation, and Recidivism"  
 - ["An evaluation of Crisis-Intervention Team (CIT) training"](https://mpra.ub.uni-muenchen.de/114948/1/MPRA_paper_114948.pdf) (working paper, RePEC 2022)
 
 ## Publications ##
