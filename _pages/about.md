@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Danielle Nemschoff"
 author_profile: true
 redirect_from: 
   - /about/
