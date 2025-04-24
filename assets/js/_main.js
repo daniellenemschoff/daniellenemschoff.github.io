@@ -3,10 +3,24 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // detect OS/browser preference
-  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-    ? 'dark'
-    : 'light';
+  // Set default to light
+  let currentTheme = 'light';
+
+  // Check if user has a previously saved preference in localStorage
+  if (localStorage.getItem('theme')) {
+    currentTheme = localStorage.getItem('theme');
+  }
+
+  // Apply the current theme
+  document.documentElement.setAttribute('data-theme', currentTheme);
+
+  // Example toggle logic (update this to match your button/icon toggle)
+  $('#theme-toggle').click(function () {
+    currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    localStorage.setItem('theme', currentTheme);
+  });
+});
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
