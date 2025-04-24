@@ -20,12 +20,12 @@ repository               : "daniellenemschoff/daniellenemschoff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_edit.JPD"
+  avatar           : "headshot_edit.JPG"
   name             : "Danielle Nemschoff"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
   location         : "Chicago, IL"
-  employer         : "University of Chicago Harris School of Public Policy"
+  employer         : "University of Chicago"
   uri              : # URL
   email            : "dinemschoff@uchicago.edu" 
 
