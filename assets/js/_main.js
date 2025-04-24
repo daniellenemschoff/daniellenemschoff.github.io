@@ -3,23 +3,8 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // Set default to light
-  let currentTheme = 'light';
-
-  // Check if user has a previously saved preference in localStorage
-  if (localStorage.getItem('theme')) {
-    currentTheme = localStorage.getItem('theme');
-  }
-
-  // Apply the current theme
-  document.documentElement.setAttribute('data-theme', currentTheme);
-
-  // Example toggle logic (update this to match your button/icon toggle)
-  $('#theme-toggle').click(function () {
-    currentTheme = currentTheme === 'light' ? 'dark' : 'light';
-    document.documentElement.setAttribute('data-theme', currentTheme);
-    localStorage.setItem('theme', currentTheme);
-  });
+  const browserPref = 'light';
+  // apply light theme logic here
 });
 
   // Set the theme on page load or when explicitly called
