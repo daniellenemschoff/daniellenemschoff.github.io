@@ -27,23 +27,23 @@ $(document).ready(function () {
   setTheme();
 
   // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
+//  window
+//    .matchMedia('(prefers-color-scheme: dark)')
+//    .addEventListener("change", (e) => {
+//      if (!localStorage.getItem("theme")) {
+ //       setTheme(e.matches ? "dark" : "light");
+//      }
+//    });
 
   // Toggle the theme manually
-  var toggleTheme = function () {
-    const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "dark" ? "light" : "dark";
-    localStorage.setItem("theme", new_theme);
-    setTheme(new_theme);
-  };
+//  var toggleTheme = function () {
+//    const current_theme = $("html").attr("data-theme");
+//    const new_theme = current_theme === "dark" ? "light" : "dark";
+//    localStorage.setItem("theme", new_theme);
+//    setTheme(new_theme);
+//  };
 
-  $('#theme-toggle').on('click', toggleTheme);
+//  $('#theme-toggle').on('click', toggleTheme);
 
   // These should be the same as the settings in _variables.scss
   const scssLarge = 925; // pixels
