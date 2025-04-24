@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Teaching"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## TA Experience
+-  **Program Evaluation** (Master's level) (Prof Fiona Burlig)
+-  **Police Reform and Police Legitimacy** (Master's level) (Prof Robert Owens)
+-  **Advanced Statistics** (Master's level) (Prof Dan Black)
+-  **Cost-Benefit Analysis** (Master's level) (Prof Kathryn Ierulli)
+-  **Introductory Microeconomics** (Master's level) (Profs Tom Coleman, Zarek Brot, Navin Kumar)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+-  **Causal Inference** (Undergraduate level)
+     [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/); Becker Friedman Institute
+-  **Inequality: Theory, Evidence and Methods** (PhD level) (Profs Steven Durlauf, Dan Black)
+     UChicago Econ Dept
