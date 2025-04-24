@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## TA Experience
--  **Program Evaluation** (Master's level) (Prof Fiona Burlig)
+-  **Program Evaluation**
+<sub><em>Master's level; Prof Fiona Burlig</em></sub>
 -  **Police Reform and Police Legitimacy** (Master's level) (Prof Robert Owens)
 -  **Advanced Statistics** (Master's level) (Prof Dan Black)
 -  **Cost-Benefit Analysis** (Master's level) (Prof Kathryn Ierulli)
