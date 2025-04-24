@@ -5,15 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## TA Experience
--  **Program Evaluation**
-<sub><em>Master's level; Prof Fiona Burlig</em></sub>
--  **Police Reform and Police Legitimacy** (Master's level) (Prof Robert Owens)
--  **Advanced Statistics** (Master's level) (Prof Dan Black)
--  **Cost-Benefit Analysis** (Master's level) (Prof Kathryn Ierulli)
--  **Introductory Microeconomics** (Master's level) (Profs Tom Coleman, Zarek Brot, Navin Kumar)
+## Harris TA Experience
+-  **Program Evaluation**<br>
+<em>Master's level; Prof Fiona Burlig</em>
+-  **Police Reform and Police Legitimacy**<br>
+<em>Master's level; Prof Robert Owens</em>
+-  **Advanced Statistics**<br>
+<em>Master's level; Prof Dan Black</em>
+-  **Cost-Benefit Analysis**<br>
+  <em>Master's level; Prof Kathryn Ierulli </em>
+-  **Introductory Microeconomics**<br>
+<em> Master's level; Profs Tom Coleman, Zarek Brot, Navin Kumar </em>
 
--  **Causal Inference** (Undergraduate level)
-     [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/); Becker Friedman Institute
--  **Inequality: Theory, Evidence and Methods** (PhD level) (Profs Steven Durlauf, Dan Black)
-     UChicago Econ Dept
+## Other TA Experience
+-  **Causal Inference**<br>
+<em>Undergraduate level;  Becker Friedman Institute </em>
+     [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/)
+-  **Inequality: Theory, Evidence and Methods**<br>
+<em>PhD level;  UChicago Econ Dept; Profs Steven Durlauf, Dan Black </em>
+    
