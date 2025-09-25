@@ -25,8 +25,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
-  employer         : "Harris School of Public Policy"
+  employer         : "University of Chicago<br>Harris School of Public Policy"
   uri              : # URL
   email            : "dinemschoff@uchicago.edu" 
 
