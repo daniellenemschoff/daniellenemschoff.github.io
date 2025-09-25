@@ -18,7 +18,7 @@ author_profile: true
 <em> Master's level; Profs Tom Coleman, Zarek Brot, Navin Kumar; Fall 2021, Fall 2022 </em>
 
 ## Other TA Experience
--  **Causal Inference**<br>
+-  **Causal Inference and Data Analysis**<br>
 <em>Undergraduate level;  Becker Friedman Institute </em>
      [Expanding Diversity in Economics](https://bfi.uchicago.edu/ede/); Summer 2021, Summer 2022, Summer 2023
 -  **Inequality: Theory, Evidence and Methods**<br>
