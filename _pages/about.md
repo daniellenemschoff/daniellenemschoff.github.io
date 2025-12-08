@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a PhD candidate at the University of Chicago Harris School of Public Policy. My fields are labor economics and applied microeconomics. My research focuses on the criminal justice system. Across policing, sentencing, and incarceration, I examine how broader social factors, such as family dynamics and mental health, interact with crime and the justice system.
+Hi! I am a PhD candidate at the University of Chicago Harris School of Public Policy. My research lies at the intersection of public and labor economics, and focuses on understanding how policies and institutions within the criminal justice system shape economic and social outcomes. Across policing, sentencing, and incarceration I examine how broader social factors, such as family dynamics and mental health, intersect with crime and the justice system. 
 
 <strong>I am on the 2025-26 job market. </strong> You can find my <strong>Job Market Paper [here](https://daniellenemschoff.github.io/files/nemschoff_JMP.pdf). </strong>
 
