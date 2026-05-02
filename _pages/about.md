@@ -10,6 +10,6 @@ Hi! I am a PhD candidate at the University of Chicago Harris School of Public Po
 
 In summer 2026 I will be joining the University of Michigan as a Postdoctoral Research Fellow with the Criminal Justice Administrative Records System <a href="https://cjars.org/">(CJARS)</a>.
 
-Prior to graduate school, I was a research assistant at the Federal Reserve Board of Governors in Washington, D.C. and I completed by undergraduate degree in economics with a math emphasis at the University of Wisconsin - Madison.
+<!--Prior to graduate school, I was a research assistant at the Federal Reserve Board of Governors in Washington, D.C. and I completed by undergraduate degree in economics with a math emphasis at the University of Wisconsin - Madison.-->
 
 You can contact me at dinemschoff@uchicago.edu.
